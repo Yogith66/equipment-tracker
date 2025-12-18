@@ -1,0 +1,37 @@
+[
+  {
+    "id": "5d1a390c-8b12-43c9-9e56-d94c89f6b5e7",
+    "name": "Mixer A1",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleaned": "2025-11-12"
+  },
+  {
+    "id": "3b085d18-ed77-43ff-a5be-5253123b576c",
+    "name": "Storage Tank B2",
+    "type": "Tank",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-10-15"
+  },
+  {
+    "id": "e1c317c3-4e4e-4fb1-8d56-1ef3551bf76d",
+    "name": "Vessel V",
+    "type": "Vessel",
+    "status": "Active",
+    "lastCleaned": "2025-11-11"
+  },
+  {
+    "id": "34c392da-7188-43e4-96e6-5dfde25665a7",
+    "name": "Packaging Machine M5",
+    "type": "Machine",
+    "status": "Inactive",
+    "lastCleaned": "2025-09-10"
+  },
+  {
+    "id": "ba7e4379-59ad-48df-9b33-4bf7c278168d",
+    "name": "Mixing unit MX",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleaned": "2025-11-13"
+  }
+]
